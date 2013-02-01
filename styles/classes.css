@@ -1,0 +1,15 @@
+#school_title_edit{
+	text-align : center;
+	width : 100%;
+	display:none;
+}
+#school_title_textarea{
+	width:300px;
+	height:60px;
+}
+#school_title_div{
+	display:inline;
+	width:350px;
+	overflow:hidden;
+	height:90px;
+}

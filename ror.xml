@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.e-dnevnik.pmg-blg.com/</title>
+  <link>http://www.e-dnevnik.pmg-blg.com/</link>
+
+<item>
+     <link>http://www.e-dnevnik.pmg-blg.com/index.php</link>
+     <title>
+		School diary
+			</title>
+     <description>
+		Home page
+			</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.e-dnevnik.pmg-blg.com/contacts.php</link>
+     <title>
+		School diary
+			</title>
+     <description>
+		Contact a teacher
+			</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.e-dnevnik.pmg-blg.com/register_student.php</link>
+     <title>
+		School diary
+			</title>
+     <description>
+		Registration form for students
+			</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

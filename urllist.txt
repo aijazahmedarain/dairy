@@ -1,0 +1,4 @@
+http://SITE_URL/
+http://SITE_URL/index.php
+http://SITE_URL/contacts.php
+http://SITE_URL/register_student.php

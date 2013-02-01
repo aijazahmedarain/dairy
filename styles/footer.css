@@ -1,0 +1,21 @@
+/*FOOTER STARTS*/
+#footer_part1 {
+	background: url(../images/menu.png) repeat scroll 0 0 #FFFFFF;
+    border-color: #D7D7D7;
+    color: #DBD7D1;
+	width : 100%;
+	height : 42px;
+}
+#footer_part1 a {
+	text-decoration : none;
+	color : #DBD7D1;
+}
+#footer_part1 a:hover {
+	text-decoration : underline;
+	color : #DBD7D1;
+}
+#footer_part1 a.visiter {
+	text-decoration : none;
+	color : #DBD7D1;
+}
+/*FOOTER ENDS*/
