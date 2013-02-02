@@ -7,7 +7,7 @@
 					<a href="sitemap.php" title=""><b>Map of the site</b></a> |
 					<a href="contacts.php" title=""><b>Contacts</b></a>
 					<div>
-						Copyright 2009 School diary All rights reserved. Designed and developed by <b>Azuneca</b>
+						Copyright 2013 School diary All rights reserved. Designed and developed by <b>Azuneca</b>
 					</div>
 				</div>
 			</td>
